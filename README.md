@@ -250,11 +250,11 @@ If deploying to Render as a **Web Service**, configure the following:
 ---
  **link**->https://fake-news-detector-machine-learning.onrender.com
 
-```
+
 
 ## ✍️ Author
 Kashish Vishwakarma 
 
 ```
 
-```
+
