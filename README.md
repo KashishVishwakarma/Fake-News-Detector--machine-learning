@@ -1,5 +1,5 @@
 # Fake-News-Detector--machine-learning
-Here is a clean, production-ready `README.md` tailored for your GitHub repository and Render deployment:
+
 
 ```markdown
 # 📰 Fake News Detector
